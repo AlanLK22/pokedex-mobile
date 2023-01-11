@@ -1,0 +1,1 @@
+pokedex criada com react native, para utilizar é preciso instalar algumas dependencias, o expo, mas já esta com a pasta node_modules entao acredito que é necessario apenas baixar e criar o apk no expo.
