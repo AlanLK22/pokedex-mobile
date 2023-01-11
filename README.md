@@ -7,7 +7,7 @@ expo-av,
 expo-font,
 expo-status-bar,
 react,
-react-native e por fim
+react-native,
 styled-components
 
 a pasta node_mobules e expo já estão inclusas, talvez não seja necessario instalar essas dependencias citadas, mas caso não funcione, apague a pasta expo e a pasta node_modules e instale todas essas dependencias.
